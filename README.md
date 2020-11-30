@@ -1,5 +1,7 @@
 # Breaking Bad Cast
 
+Demo: https://breaking-bad-cast-app.netlify.app/
+
 React project that uses the [breaking bad api](https://breakingbadapi.com/documentation) to show and filter characters from the show
 
 # Usage
